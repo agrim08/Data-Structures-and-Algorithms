@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Hello and welcome to an open souce project created by shree1999! This project is designed to help beginner computer science students a place to learn and practice data structures and algorithms common to computer science. The goal is for you to be able to learn the ins and outs of these structures to the point where you can use them in your own projects and problems. You will find that different structures work better for different kinds of data. Part of the hope with this is that you will begin to gain an understanding of when and where to use different structures. Let's get learning!
+Hello and welcome to an open souce Data Structures and Algorithm project. This project is designed to help beginner computer science students a place to learn and practice data structures and algorithms common to computer science. The goal is for you to be able to learn the ins and outs of these structures to the point where you can use them in your own projects and problems. You will find that different structures work better for different kinds of data. Part of the hope with this is that you will begin to gain an understanding of when and where to use different structures. Let's get learning!
 
 ### What's in this Project?
 - Data Structures:
